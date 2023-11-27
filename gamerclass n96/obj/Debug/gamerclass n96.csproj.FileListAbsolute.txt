@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\bin\Debug\gamerclass n96.exe.config
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\bin\Debug\gamerclass n96.exe
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\bin\Debug\gamerclass n96.pdb
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass_n96.Form1.resources
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass_n96.Properties.Resources.resources
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.exe
+C:\Users\User\source\repos\gamerclass n96\gamerclass n96\obj\Debug\gamerclass n96.pdb
